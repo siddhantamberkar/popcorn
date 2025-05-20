@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+statsmodels
+statsmodels.api
+scipy
+scipy.stats
+pymc
