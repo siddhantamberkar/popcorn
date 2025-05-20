@@ -10,4 +10,5 @@ ruptures
 random
 scikit-learn
 tqdm
+joblib
 
