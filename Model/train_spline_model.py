@@ -79,4 +79,4 @@ final_y_train = np.mean(pops, axis=0)
 final_spline = UnivariateSpline(time, final_y_train, s=best_s)
 
 # Save the model
-joblib.dump(final_spline, "spline_model.pkl")
+joblib.dump(final_spline, "../Model/spline_model.pkl")
