@@ -7,3 +7,7 @@ scipy
 scipy.stats
 pymc
 ruptures
+random
+scikit-learn
+tqdm
+
