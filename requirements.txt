@@ -2,13 +2,10 @@ numpy
 pandas
 matplotlib
 statsmodels
-statsmodels.api
 scipy
-scipy.stats
 pymc
 ruptures
-random
 scikit-learn
 tqdm
 joblib
-
+torch
