@@ -1,0 +1,4 @@
+All data used in this project is computer-generated and does not represent real data. 
+However, distributions of popped kernels was generated following relevant statistics 
+and is hopefully still useful! 
+
