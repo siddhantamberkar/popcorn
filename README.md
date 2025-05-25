@@ -1,2 +1,2 @@
 # popcorn
-Poisson process and Fourier transform of popcorn popping
+Poisson process and ML optimization of microwave popcorn popping and waiting times. 
