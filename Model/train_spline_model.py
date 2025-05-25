@@ -45,6 +45,7 @@ for i, trial in enumerate(sample):
 
     # Count how many pop times are ≤ each time point
     pops[i] = np.searchsorted(pop_times, time, side='right')
+    pops[i] = pops[i]/np.max(pops[i])
 
 
 # non-parametric regression on cumulative counts using one smoothing spline
